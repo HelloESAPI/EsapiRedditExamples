@@ -5,4 +5,4 @@ Projects made in attempts to work through various questions or problems discusse
 	- [Link to Video](https://youtu.be/fXT0k5qoW2E)
 
 2. [Calculating SSD Based on a Known Isocenter](https://www.reddit.com/r/esapi/comments/vs4blu/how_to_calculate_ssd_from_isocenter_to_body/)
-	- [Link to Video](#)
+	- [Link to Video](https://youtu.be/admx5Kyt-Vw)
