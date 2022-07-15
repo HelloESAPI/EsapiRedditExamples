@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SettingAnIsoToSpecificSlice", "SettingAnIsoToSpecificSlice.csproj", "{CDFB1D1B-431B-42FF-8696-8E089E2674CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDFB1D1B-431B-42FF-8696-8E089E2674CE}.Debug|x64.ActiveCfg = Debug|x64
+		{CDFB1D1B-431B-42FF-8696-8E089E2674CE}.Debug|x64.Build.0 = Debug|x64
+		{CDFB1D1B-431B-42FF-8696-8E089E2674CE}.Release|x64.ActiveCfg = Release|x64
+		{CDFB1D1B-431B-42FF-8696-8E089E2674CE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {512703CC-5315-4466-A994-BE1B1041C0F3}
+	EndGlobalSection
+EndGlobal
