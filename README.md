@@ -6,3 +6,7 @@ Projects made in attempts to work through various questions or problems discusse
 
 2. [Calculating SSD Based on a Known Isocenter](https://www.reddit.com/r/esapi/comments/vs4blu/how_to_calculate_ssd_from_isocenter_to_body/)
 	- [Link to Video](https://youtu.be/admx5Kyt-Vw)
+
+3. [VVector at a Specific Slice](https://www.reddit.com/r/esapi/comments/vocdr6/vvector_in_a_specific_slice/)
+	- [Link to Video](https://youtu.be/Ke8rg7wRRQE)
+	
